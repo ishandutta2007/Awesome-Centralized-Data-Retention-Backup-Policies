@@ -1,6 +1,6 @@
 # Awesome-Centralized-Data-Retention-Backup-Policies
 
-# Top Centralized Data Retention & Backup Policies Ecosystem
+## Top Centralized Data Retention & Backup Policies Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Policy-Driven Retention Management, Immutable Backup Governance & Compliance Automation*  
