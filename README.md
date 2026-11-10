@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Retention-Backup-Policies/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -65,7 +65,7 @@ The global enterprise data backup, retention, and recovery market is estimated a
 
 The following open-source solutions provide policy-driven backup execution, automated Grandfather-Father-Son (GFS) prune rotation, and policy-as-code compliance orchestration:
 
-| Project 📦 | GitHub Stars ⭐ | Description 📝 | Key Policy Capabilities ⚙️ |
+| Project 📦 | GitHub_Stars ⭐ | Description 📝 | Key Policy Capabilities ⚙️ |
 | :--- | :--- | :--- | :--- |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | "rsync for cloud storage" CLI supporting sync, copy, crypt, and pruning across 70+ storage backends | Time-based retention policies (`--min-age`, `--max-age`), delete exclusions, and lifecycle-aware cloud sync |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, deduplicating backup software with client-side encryption | Granular GFS pruning policy engine (`restic forget --keep-daily --keep-weekly --keep-monthly --keep-yearly`) |
@@ -92,7 +92,7 @@ We welcome community contributions! To suggest a new tool or suggest updates:
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-tool`).
 3. 📝 **Add/edit entries in `README.md`**:
    - For SaaS tools: include official pricing breakdown, free tier limits, and enterprise valuation/revenue.
-   - For open-source tools: include GitHub repo URL, star badge, and description of retention/policy features.
+   - For open-source tools: include GitHub repo URL, Stars_Badge, and description of retention/policy features.
 4. 🚀 **Submit a Pull Request** with clear citations and documentation links.
 
 ---
